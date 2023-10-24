@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/GorunowMaxim/LearnEnglish.github.io">
-    <h1>SHOP CO</h1>
+    <h1>Dubai Realty</h1>
   </a>
 
   <h3 align="center">Web site Dubai appartments</h3>
