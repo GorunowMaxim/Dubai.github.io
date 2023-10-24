@@ -21,7 +21,7 @@
 ## About The Project
 <br />
 
-<video width="630" height="300"  src="https://github.com/GorunowMaxim/ShopCo.github.io/assets/132397409/ddb96fbb-08b5-4b55-8c31-80b6a340bc2e" autoplay></video>
+<video width="630" height="300"  src="https://github.com/GorunowMaxim/Dubai.github.io/assets/132397409/aa5646a9-39bd-4385-a1ce-3e0e135f00d9" autoplay></video>
 
 <br />
 <br />
